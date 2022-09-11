@@ -5,7 +5,7 @@
 * 🌱 I’m currently learning Goland, C++, C, Python and Haskell
 * 💞️ I’m looking to collaborate on various projects, anything that Let me learn something about coding, etc. 
 * 📫 How to reach me ... hangarusan@gmail.com
-<p align="center">
+<p>
                                                                                                                   
                                               ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
                                         ▓▓▒▒▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▒▒░░░░░░░░░░
