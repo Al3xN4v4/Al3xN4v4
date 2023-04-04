@@ -1,10 +1,10 @@
 <h1 align="center">💙Alex Nava's Profile😎</h1>
 
 * 👋 Hi, I’m @Al3xN4v4
-* 👀 I’m interested in Golang, C++, OpenGL, C, Python, Drawing, Booba (•)(•), anything interesting
-* 🌱 I’m currently learning Goland, C++, C, Python and Haskell
+* 👀 I’m interested in Java, C, C#, Python, Drawing, anything interesting
+* 🌱 I’m currently learning java, Git , C, Python, HTML, Css, JavaScript
 * 💞️ I’m looking to collaborate on various projects, anything that Let me learn something about coding, etc. 
-* 📫 How to reach me ... hangarusan@gmail.com
+* 📫 How to reach me ... itsakawaiitrapdev@gmail.com
 
 <h3 align="center">Under construction...</h3>
 <p align="center">
