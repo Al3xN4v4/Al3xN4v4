@@ -4,7 +4,7 @@
 * 👀 I’m interested in Java, Python, Javascript, CSS, HTML, Kotlin, Android Studio, Artificial Intelligence, Data Structures...
 * 📫 How to reach me ... TochtliNava@gmail.com
 
-<h3 align="center">Under construction...</h3>
+<h3 align="center">Moving to...</h3>
 <p align="center">
 <a href="https://github.com/tochtlinava">✩░▒▓▆▅▃▂▁🌙𝐓𝐨𝐜𝐡𝐭𝐥𝐢𝐍𝐚𝐯𝐚🐇▁▂▃▅▆▓▒░✩</a>       
 </p>
